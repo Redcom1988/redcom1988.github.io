@@ -9,7 +9,7 @@ canonical_url: https://redcom1988.github.io/posts/trivium-project-en/
 ---
 
 <div>
-  <img src="/assets/img/trivium/logo.jpg" alt="Logo" />
+  <img src="/assets/img/trivium/logo.png" alt="Logo" />
 </div>
 
 ## 🚀 Introduction
