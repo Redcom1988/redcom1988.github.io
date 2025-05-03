@@ -29,7 +29,7 @@ timezone: Asia/Shanghai
 title: Redcom1988's Site # the main title
 
 # it will display as the subtitle
-tagline: A history of my projects
+tagline: Discover my projects be it complete, incomplete, or utter garbage.
 
 description: >- # used by seo meta and the atom feed
   Discover my projects be it complete, incomplete, or utter garbage.
@@ -102,7 +102,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: #[dark | light]
+theme_mode: dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
