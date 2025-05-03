@@ -1,9 +1,9 @@
 ---
-title: "Ecoscan College Project"
+title: "Proyek Kuliah Ecoscan"
 date: 2024-12-22
 description: "Ecoscan, sebuah aplikasi seluler berbasis Pfandautomat, memberikan penghargaan kepada pengguna yang mendaur ulang barang-barang yang dapat digunakan kembali seperti kaleng dan botol plastik dengan poin yang dapat ditukarkan menjadi voucher."
 categories: [software-development]
-tags: [project, github]
+tags: [project, github, college]
 lang: id
 canonical_url: https://redcom1988.github.io/posts/ecoscan-project-id/
 ---

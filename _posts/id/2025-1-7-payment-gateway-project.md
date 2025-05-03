@@ -1,5 +1,5 @@
 ---
-title: "Payment Gateway Cashier Project"
+title: "Proyek Payment Gateway Cashier"
 date: 2025-02-17
 description: "Aplikasi kasir desktop terintegrasi dengan DokuAPI, mencakup sistem pembayaran, manajemen gudang, dan panel admin."
 categories: [software-development]
@@ -16,7 +16,7 @@ Proyek ini merupakan tugas akhir mata kuliah *Analisis dan Perancangan Algoritma
 
 ---
 
-## 📸 Fitur-Fitur
+## 📸 Pratinjau Fitur
 
 Meskipun bernama *Payment Gateway Cashier*, aplikasi ini mencakup lebih dari sekadar sistem pembayaran. Fitur utama yang tersedia antara lain:
 

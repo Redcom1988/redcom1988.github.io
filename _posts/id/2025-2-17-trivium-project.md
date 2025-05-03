@@ -1,5 +1,5 @@
 ---
-title: "Trivium Personal Project"
+title: "Proyek Personal Trivium"
 date: 2025-2-17
 description: "Trivium, sebuah aplikasi trivia berbasis OpenTriviaDB, menghadirkan pengalaman kuis interaktif dengan berbagai kategori dan tingkat kesulitan. Dibuat dengan Kotlin dan Jetpack Compose."
 categories: [software-development]
