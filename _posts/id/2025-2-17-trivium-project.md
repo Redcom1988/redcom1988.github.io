@@ -1,7 +1,7 @@
 ---
 title: "Trivium Personal Project"
 date: 2025-2-17
-description: "A trivia application based on OpenTriviaDB."
+description: "Trivium, sebuah aplikasi trivia berbasis OpenTriviaDB, menghadirkan pengalaman kuis interaktif dengan berbagai kategori dan tingkat kesulitan. Dibuat dengan Kotlin dan Jetpack Compose."
 categories: [software-development]
 tags: [project, github]
 lang: id
@@ -12,7 +12,7 @@ canonical_url: https://redcom1988.github.io/posts/trivium-project-id/
   <img src="/assets/img/trivium/logo.png" alt="Logo" />
 </div>
 
-## 🚀 Introduction
+## 🚀 Pengenalan
 
 Trivium adalah sebuah aplikasi trivia yang berbasis OpenTriviaDB. Aplikasi ini dibangun menggunakan kotlin android dan jetpack compose untuk front-end. Aplikasi ini memiliki beberapa kategori dan tingkat kesulitan pertanyaan (yang semuanya merupakan pilihan ganda) berdasarkan pilihan OpenTriviaDB.
 
@@ -20,46 +20,40 @@ Ini adalah proyek pribadi dengan kakak saya di mana saya bertanggung jawab atas 
 
 ---
 
-## 📸 Features Preview
+## 📸 Pratinjau Fitur
 
-For the user screen, it includes a homepage, news screen, QR code scanner, vouchers screen, and profile. Homepage consists of a carousel of news cards, withdrawal history, shortcut to point redeem, and a voucher purchase history. News screen consists of a list of news entries. QR code scanner is used to scan QR codes that gets outputted by the machine after inserting waste, after which you will gain points depending on waste inserted. Vouchers screen is where you can redeem/exchange your points into vouchers. Lastly profile which shows your profile. (There is technically one more screen for support center but I feel like it'd just be too long)
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="/assets/img/ecoscan/user-register.png" alt="Feature 1" />
-  <img src="/assets/img/ecoscan/user-login.png" alt="Feature 2" />
-  <img src="/assets/img/ecoscan/user-profile.png" alt="Feature 3" />
-  <img src="/assets/img/ecoscan/user-homepage.png" alt="Feature 4" />
-  <img src="/assets/img/ecoscan/user-withdrawal-history.png" alt="Feature 5" />
-  <img src="/assets/img/ecoscan/user-news.png" alt="Feature 6" />
-  <img src="/assets/img/ecoscan/user-news-detail.png" alt="Feature 7" />
-  <img src="/assets/img/ecoscan/user-qrscan.png" alt="Feature 8" />
-  <img src="/assets/img/ecoscan/user-voucher-buy.png" alt="Feature 9" />
-</div>
-
----
-
-For the machine simulation screen, it includes entries with a dropdown menu filled with waste types (taken from database) and a text area for quantity. After submitting, it will make a QR code with value based on waste type and quantity.
+Layar pertama yang ditampilkan adalah layar menu utama, berisi tombol *Play* dan *Achievement*. Tombol *Achievement* akan menampilkan semua pencapaian, baik yang sudah maupun belum diperoleh (dengan yang sudah diperoleh akan disorot).
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="/assets/img/ecoscan/machine-input.png" alt="Before" />
-  <img src="/assets/img/ecoscan/machine-output.png" alt="After" />
+  <img src="/assets/img/trivium/main-menu.jpg" alt="Menu Utama" />
+  <img src="/assets/img/trivium/achievement-menu.jpg" alt="Menu Pencapaian" />
 </div>
 
 ---
 
-Lastly, for admin screen. It includes support ticket screen, news (or education) screen, voucher screen, and profile. Like the reason before I wont be showing support ticket screen due to users also not showing it (It'd get confusing).
+Setelah menekan tombol *Play*, pengguna akan diarahkan ke menu permainan yang memungkinkan pemilihan kategori, tingkat kesulitan, serta mode permainan. Penjelasan mengenai mode juga ditampilkan di layar ini. Saat memilih kategori, pengguna akan dibawa ke layar pemilihan kategori yang berisi berbagai pilihan.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="/assets/img/ecoscan/admin-education.png" alt="UI 1" />
-  <img src="/assets/img/ecoscan/admin-education-add.png" alt="UI 2" />
-  <img src="/assets/img/ecoscan/admin-education-edit.png" alt="UI 3" />
-  <img src="/assets/img/ecoscan/admin-voucher.png" alt="UI 4" />
-  <img src="/assets/img/ecoscan/admin-voucher-add.png" alt="UI 5" />
-  <img src="/assets/img/ecoscan/admin-voucher-edit.png" alt="UI 6" />
+  <img src="/assets/img/trivium/play-menu.jpg" alt="Menu Bermain" />
+  <img src="/assets/img/trivium/category-select.jpg" alt="Pilih Kategori" />
+  <img src="/assets/img/trivium/play-menu-alt.jpg" alt="Menu Bermain Alternatif" />
 </div>
 
 ---
 
-## 📎 Links
+Saat permainan dimulai, pengguna akan melihat soal dan pilihan jawaban. Pengguna bisa memilih satu jawaban dan mengonfirmasi. Jawaban yang benar akan ditandai hijau, sedangkan jawaban salah (jika dipilih) akan ditandai merah. 
+
+Permainan mencatat skor, streak, dan waktu bermain (yang akan berhenti saat jawaban dikonfirmasi). Terdapat tombol *Give Up* untuk menyerah. Setelah permainan selesai, layar akhir akan menampilkan skor, waktu, akurasi, nilai (misal: 2/20), streak terbaik, dan progres pencapaian. Pengguna dapat memilih untuk bermain lagi atau kembali ke menu utama.
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="/assets/img/trivium/game.jpg" alt="Menu Permainan" />
+  <img src="/assets/img/trivium/game-correct.jpg" alt="Jawaban Benar" />
+  <img src="/assets/img/trivium/game-incorrect.jpg" alt="Jawaban Salah" />
+  <img src="/assets/img/trivium/game-end.jpg" alt="Layar Akhir" />
+</div>
+
+---
+
+## 📎 Tautan
 - 🔗 [GitHub Repo](https://github.com/achmadss/trivium)
 

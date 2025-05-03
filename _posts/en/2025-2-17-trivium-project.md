@@ -1,7 +1,7 @@
 ---
 title: "Trivium Personal Project"
 date: 2025-2-17
-description: "A trivia application based on OpenTriviaDB."
+description: "Trivium, a trivia application based on OpenTriviaDB, presents an interactive quiz experience with various categories and difficulty levels. Built with Kotlin and Jetpack Compose."
 categories: [software-development]
 tags: [project, github]
 lang: en
@@ -9,7 +9,7 @@ canonical_url: https://redcom1988.github.io/posts/trivium-project-en/
 ---
 
 <div>
-  <img src="/assets/img/trivium/logo.png" alt="Logo" />
+  <img src="/assets/img/trivium/logo.jpg" alt="Logo" />
 </div>
 
 ## 🚀 Introduction
@@ -22,40 +22,34 @@ This was a personal project with my brother where I'm in charge of front-end dev
 
 ## 📸 Features Preview
 
-For the user screen, it includes a homepage, news screen, QR code scanner, vouchers screen, and profile. Homepage consists of a carousel of news cards, withdrawal history, shortcut to point redeem, and a voucher purchase history. News screen consists of a list of news entries. QR code scanner is used to scan QR codes that gets outputted by the machine after inserting waste, after which you will gain points depending on waste inserted. Vouchers screen is where you can redeem/exchange your points into vouchers. Lastly profile which shows your profile. (There is technically one more screen for support center but I feel like it'd just be too long)
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="/assets/img/ecoscan/user-register.png" alt="Feature 1" />
-  <img src="/assets/img/ecoscan/user-login.png" alt="Feature 2" />
-  <img src="/assets/img/ecoscan/user-profile.png" alt="Feature 3" />
-  <img src="/assets/img/ecoscan/user-homepage.png" alt="Feature 4" />
-  <img src="/assets/img/ecoscan/user-withdrawal-history.png" alt="Feature 5" />
-  <img src="/assets/img/ecoscan/user-news.png" alt="Feature 6" />
-  <img src="/assets/img/ecoscan/user-news-detail.png" alt="Feature 7" />
-  <img src="/assets/img/ecoscan/user-qrscan.png" alt="Feature 8" />
-  <img src="/assets/img/ecoscan/user-voucher-buy.png" alt="Feature 9" />
-</div>
-
----
-
-For the machine simulation screen, it includes entries with a dropdown menu filled with waste types (taken from database) and a text area for quantity. After submitting, it will make a QR code with value based on waste type and quantity.
+The first screen that users will encounter upon opening the app is a main menu screen that contains a play button and an achievement button. Achievement button will show all achievements, obtained or not (with obtained being highlighted).
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="/assets/img/ecoscan/machine-input.png" alt="Before" />
-  <img src="/assets/img/ecoscan/machine-output.png" alt="After" />
+  <img src="/assets/img/trivium/main-menu.jpg" alt="Main Menu" />
+  <img src="/assets/img/trivium/achievement-menu.jpg" alt="Achievement Menu" />
 </div>
 
 ---
 
-Lastly, for admin screen. It includes support ticket screen, news (or education) screen, voucher screen, and profile. Like the reason before I wont be showing support ticket screen due to users also not showing it (It'd get confusing).
+Upon pressing start button, user will be redirected to the play menu that contains a category select, difficulty option button, mode option button, and mode description. If user presses the category select, they will be redirected to category select screen where the user can pick 1 of the many categories.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="/assets/img/ecoscan/admin-education.png" alt="UI 1" />
-  <img src="/assets/img/ecoscan/admin-education-add.png" alt="UI 2" />
-  <img src="/assets/img/ecoscan/admin-education-edit.png" alt="UI 3" />
-  <img src="/assets/img/ecoscan/admin-voucher.png" alt="UI 4" />
-  <img src="/assets/img/ecoscan/admin-voucher-add.png" alt="UI 5" />
-  <img src="/assets/img/ecoscan/admin-voucher-edit.png" alt="UI 6" />
+  <img src="/assets/img/trivium/play-menu.jpg" alt="Play Menu" />
+  <img src="/assets/img/trivium/category-select.jpg" alt="Category Select" />
+  <img src="/assets/img/trivium/play-menu-alt.jpg" alt="Play Menu Alt" />
+</div>
+
+---
+
+After the user presses start game, they get redirected to game menu that shows questions and answers (in the form of option buttons). User can pick an option and confirm to lock their answer after which it will show the correct answer highlighted in green, and the wrong answer (if the selected option is wrong) in red. 
+
+The game will keep track of score, streak, and time spent (which will pause after confirming answer). Give up button is used to stop the game. When the user finishes the game, it will show and end screen that shows score, time spent (slightly bugged at the moment), accuracy, marks (i.e. 2/20), best streak, and achievement progress. After which user can choose to play again or go back to the main menu.
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+  <img src="/assets/img/trivium/game.jpg" alt="Game Menu" />
+  <img src="/assets/img/trivium/game-correct.jpg" alt="Game Menu Correct" />
+  <img src="/assets/img/trivium/game-incorrect.jpg" alt="Game Menu Incorrect" />
+  <img src="/assets/img/trivium/game-end.jpg" alt="End Screen" />
 </div>
 
 ---
