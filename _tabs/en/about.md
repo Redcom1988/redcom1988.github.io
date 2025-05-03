@@ -11,6 +11,6 @@ lang: en
 
 # About Me
 
-I'm an IT professional passionate about technology, problem-solving and knowledge-sharing. Over the years, I've learned a lot from the online community - people who freely share their experiences, solutions and insights. This blog (as my Medium) is my way of giving back and documenting what I discover, and helping others facing similar challenges.
+I'm currently a computer science student in Udayana University. Over the years, I've learned a lot from others, whether it's a relative or the online community - people who freely share their experiences, solutions and insights. This site serves as an archive of projects that I've done previously.
 
-Beyond IT, I enjoy traveling, reading and experimenting with amateur photography. If any of my posts help you solve a problem or spark new ideias, then this space has fulfilled its purpose.
+Beyond IT, I enjoy learning new stuff, reading manga and playing video games. If any of my posts helped you solve a problem or spark new ideas, then it doesn't really live up to it's description huh.
