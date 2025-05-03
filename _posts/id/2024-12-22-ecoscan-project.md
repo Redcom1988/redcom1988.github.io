@@ -2,17 +2,19 @@
 title: "Ecoscan College Project"
 date: 2024-12-22
 description: "Ecoscan, sebuah aplikasi seluler berbasis Pfandautomat, memberikan penghargaan kepada pengguna yang mendaur ulang barang-barang yang dapat digunakan kembali seperti kaleng dan botol plastik dengan poin yang dapat ditukarkan menjadi voucher."
-author: "Adika Setyadharma Susilo"
 categories: [software-development]
 tags: [project, github]
 lang: id
 canonical_url: https://redcom1988.github.io/posts/ecoscan-project-id/
 ---
 
+<div>
+  <img src="/assets/img/ecoscan/logo.png" alt="Logo" />
+</div>
+
 ## 🚀 Pengenalan
 
 Ecoscan adalah aplikasi pengumpulan sampah terinspirasi dari Pfandautomat, di mana pengguna mendapatkan poin dari mendaur ulang botol dan kaleng. Poin tersebut bisa ditukar dengan voucher. Aplikasi ini dibuat menggunakan Flutter (frontend), Express.js (backend), dan MySQL (database), terdiri dari layar user, admin, dan simulasi mesin.
-
 Ini adalah proyek kuliah untuk mata kuliah pengembangan perangkat lunak yang dilakukan berkelompok. Saya bertanggung jawab pada backend, namun karena progress frontend lambat, saya juga membantu di beberapa bagian.
 
 ---

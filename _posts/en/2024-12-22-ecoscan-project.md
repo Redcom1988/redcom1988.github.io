@@ -2,13 +2,15 @@
 title: "Ecoscan College Project"
 date: 2024-12-22
 description: "Ecoscan, a mobile app based on Pfandautomat, rewards users for recycling reusable items like cans and plastic bottles with points that can be converted into vouchers."
-author: "Adika Setyadharma Susilo"
 categories: [software-development]
 tags: [project, github]
 lang: en
 canonical_url: https://redcom1988.github.io/posts/ecoscan-project-en/
-image: "assets/img/ecoscan/logo.png"
 ---
+
+<div>
+  <img src="/assets/img/ecoscan/logo.png" alt="Logo" />
+</div>
 
 ## 🚀 Introduction
 
