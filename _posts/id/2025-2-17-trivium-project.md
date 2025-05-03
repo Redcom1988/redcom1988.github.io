@@ -4,8 +4,8 @@ date: 2025-2-17
 description: "A trivia application based on OpenTriviaDB."
 categories: [software-development]
 tags: [project, github]
-lang: en
-canonical_url: https://redcom1988.github.io/posts/trivium-project-en/
+lang: id
+canonical_url: https://redcom1988.github.io/posts/trivium-project-id/
 ---
 
 <div>
@@ -14,9 +14,9 @@ canonical_url: https://redcom1988.github.io/posts/trivium-project-en/
 
 ## 🚀 Introduction
 
-Trivium is a trivia application based on OpenTriviaDB. The application is built using kotlin android and jetpack compose for front-end. It features multiple categories and difficulties of questions (all of which are multiple choice) based on the OpenTriviaDB selections.
+Trivium adalah sebuah aplikasi trivia yang berbasis OpenTriviaDB. Aplikasi ini dibangun menggunakan kotlin android dan jetpack compose untuk front-end. Aplikasi ini memiliki beberapa kategori dan tingkat kesulitan pertanyaan (yang semuanya merupakan pilihan ganda) berdasarkan pilihan OpenTriviaDB.
 
-This was a personal project with my brother where I'm in charge of front-end development and UI/UX, meanwhile my brother is in charge of the back-end development.
+Ini adalah proyek pribadi dengan kakak saya di mana saya bertanggung jawab atas pengembangan front-end dan UI/UX, sementara kakak saya bertanggung jawab atas pengembangan back-end.
 
 ---
 
