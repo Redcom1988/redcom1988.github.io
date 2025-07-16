@@ -29,15 +29,15 @@ Ini adalah proyek akhir untuk mata kuliah pengembangan web yang dikerjakan secar
 Untuk pengunjung (pengguna belum login), tersedia halaman landing, pencarian daftar kos, dan detail kos. Untuk pengguna yang sudah login, tersedia fitur simpan bookmark, pemesanan survei, pelaporan daftar kos, dan percakapan dengan pemilik kos.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="/assets/img/papikos/login.png" />
-  <img src="/assets/img/papikos/register.png" />
-  <img src="/assets/img/papikos/landing-page.png" />
-  <img src="/assets/img/papikos/browse-listings-page.png" />
-  <img src="/assets/img/papikos/room-listing-page.png" />
-  <img src="/assets/img/papikos/report-listing-page.png" />
-  <img src="/assets/img/papikos/schedule-survey-page.png" />
-  <img src="/assets/img/papikos/chat-map.png" />
-  <img src="/assets/img/papikos/bookmarked-listings-page.png" />
+  <img src="/assets/img/papikos/login.png" alt="Login page" />
+  <img src="/assets/img/papikos/register.png" alt="Register page" />
+  <img src="/assets/img/papikos/landing-page.png" alt="Landing page" />
+  <img src="/assets/img/papikos/browse-listings-page.png" alt="Browse listings page" />
+  <img src="/assets/img/papikos/room-listing-page.png" alt="Room listing page" />
+  <img src="/assets/img/papikos/report-listing-page.png" alt="Report listing page" />
+  <img src="/assets/img/papikos/schedule-survey-page.png" alt="Schedule survey page" />
+  <img src="/assets/img/papikos/chat-map.png" alt="Chat and map page" />
+  <img src="/assets/img/papikos/bookmarked-listings-page.png" alt="Bookmarked listings page" />
 </div>
 
 ---
@@ -50,12 +50,12 @@ Akun pemilik dan admin memiliki akses ke dashboard. Halaman default dashboard pe
 - Tab **Pengaturan** memungkinkan pengelolaan profil, kata sandi, dan tampilan tema.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="/assets/img/papikos/owner-dashboard.png"/>
-  <img src="/assets/img/papikos/owner-my-rooms.png"/>
-  <img src="/assets/img/papikos/owner-appointments.png"/>
-  <img src="/assets/img/papikos/owner-reports.png"/>
-  <img src="/assets/img/papikos/owner-messages.png"/>
-  <img src="/assets/img/papikos/owner-settings.png"/>
+  <img src="/assets/img/papikos/owner-dashboard.png" alt="Owner dashboard" />
+  <img src="/assets/img/papikos/owner-my-rooms.png" alt="Owner my rooms" />
+  <img src="/assets/img/papikos/owner-appointments.png" alt="Owner appointments" />
+  <img src="/assets/img/papikos/owner-reports.png" alt="Owner reports" />
+  <img src="/assets/img/papikos/owner-messages.png" alt="Owner messages" />
+  <img src="/assets/img/papikos/owner-settings.png" alt="Owner settings" />
 </div>
 
 ---
@@ -68,12 +68,12 @@ Terakhir, dashboard admin (ditampilkan dalam mode terang) memiliki halaman defau
 - Tab **Pengaturan** memungkinkan pengelolaan profil, kata sandi, dan tampilan tema.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="/assets/img/papikos/admin-dashboard.png" alt="UI 1" />
-  <img src="/assets/img/papikos/admin-users.png" alt="UI 2" />
-  <img src="/assets/img/papikos/admin-add-user.png" alt="UI 5" />
-  <img src="/assets/img/papikos/admin-rooms.png" alt="UI 3" />
-  <img src="/assets/img/papikos/admin-reports.png" alt="UI 4" />
-  <img src="/assets/img/papikos/admin-report-action.png" alt="UI 6" />
+  <img src="/assets/img/papikos/admin-dashboard.png" alt="Admin dashboard" />
+  <img src="/assets/img/papikos/admin-users.png" alt="Admin users" />
+  <img src="/assets/img/papikos/admin-add-user.png" alt="Admin add user" />
+  <img src="/assets/img/papikos/admin-rooms.png" alt="Admin rooms" />
+  <img src="/assets/img/papikos/admin-reports.png" alt="Admin reports" />
+  <img src="/assets/img/papikos/admin-report-action.png" alt="Admin report action" />
 </div>
 
 ---
