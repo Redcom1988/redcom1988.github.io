@@ -3,7 +3,7 @@ title: "JadwalIn College Project"
 date: 2025-06-24
 description: "JadwalIn, sistem penjadwalan kuliah dan peminjaman ruang kelas untuk mahasiswa, dosen, dan admin Prodi Informatika Universitas Udayana."
 categories: [web-development]
-tags: [project, github, kuliah]
+tags: [project, github, college]
 lang: id
 canonical_url: https://redcom1988.github.io/posts/jadwalin-project-id/
 ---
