@@ -80,3 +80,4 @@ Terakhir, dashboard admin (ditampilkan dalam mode terang) memiliki halaman defau
 
 ## 📎 Tautan
 - 🔗 [Repo GitHub](https://github.com/redcom1988/papikos)
+- 🔗 [Link Website](https://papikos.genk.top/)

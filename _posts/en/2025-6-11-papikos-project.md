@@ -80,3 +80,4 @@ Lastly, admin dashboard (which i'll show in light mode) default page contains st
 
 ## 📎 Links
 - 🔗 [GitHub Repo](https://github.com/redcom1988/papikos)
+- 🔗 [Website Link](https://papikos.genk.top/)
