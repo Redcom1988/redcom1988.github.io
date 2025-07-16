@@ -43,11 +43,11 @@ For guests (non logged-in users), landing page, browse listing, and listing deta
 ---
 
 Owner and admin accounts gain access to a dashboard. Owner dashboard default page contains statistics of relevant owner information (like available owned rooms, occupied rooms, appointments). Dashboard sidebar contains multiple tabs being:
-- my rooms tab shows owned rooms where owner can see, edit current listings, and/or add new listings.
-- appointments tab shows upcoming appointments to owned rooms where owner can cancel or complete appointments.
-- reports tab shows reports toward owned rooms where owner can refute/dispute reports by showing proof and reasoning.
-- messages tab shows messages sent toward and/or from the user/owner.
-- settings tab shows profile, password, and appearance settings.
+- **My rooms** tab shows owned rooms where owner can see, edit current listings, and/or add new listings.
+- **Appointments** tab shows upcoming appointments to owned rooms where owner can cancel or complete appointments.
+- **Reports** tab shows reports toward owned rooms where owner can refute/dispute reports by showing proof and reasoning.
+- **Messages** tab shows messages sent toward and/or from the user/owner.
+- **Settings** tab shows profile, password, and appearance settings.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="/assets/img/papikos/owner-dashboard.png" alt="Owner dashboard" />
@@ -61,11 +61,11 @@ Owner and admin accounts gain access to a dashboard. Owner dashboard default pag
 ---
 
 Lastly, admin dashboard (which i'll show in light mode) default page contains statistics of users, rooms, and reports. Dashboard sidebar contains multiple tabs being:
-- users tab shows all users where admin can see, add, edit, and/or remove users
-- rooms tab shows all rooms where admin can see, add, edit, and/or remove rooms
-- reports tab shows all disputed reports where admin can verify and change status of report depending on proof given
-- messages tab shows messages sent toward and/or from the user/admin.
-- settings tab shows profile, password, and appearance settings.
+- **Manage users** tab shows all users where admin can see, add, edit, and/or remove users
+- **Manage rooms** tab shows all rooms where admin can see, add, edit, and/or remove rooms
+- **Manage reports** tab shows all disputed reports where admin can verify and change status of report depending on proof given
+- **Messages** tab shows messages sent toward and/or from the user/admin.
+- **Settings** tab shows profile, password, and appearance settings.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="/assets/img/papikos/admin-dashboard.png" alt="Admin dashboard" />

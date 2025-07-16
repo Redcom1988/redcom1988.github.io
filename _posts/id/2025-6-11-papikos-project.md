@@ -43,11 +43,11 @@ Untuk pengunjung (pengguna belum login), tersedia halaman landing, pencarian daf
 ---
 
 Akun pemilik dan admin memiliki akses ke dashboard. Halaman default dashboard pemilik menampilkan statistik informasi penting seperti jumlah kamar tersedia, kamar terisi, dan janji survei. Sidebar dashboard memiliki beberapa tab, yaitu:
-- Tab **Kamar Saya** menampilkan daftar kamar yang dimiliki, dengan opsi melihat, mengedit, dan menambahkan kamar baru.
-- Tab **Janji Temu** menampilkan daftar janji survei dengan opsi membatalkan atau menyelesaikan.
-- Tab **Laporan** menampilkan laporan terhadap kamar yang dimiliki dan memungkinkan pemilik membantah laporan dengan bukti dan penjelasan.
-- Tab **Pesan** menampilkan percakapan antara pemilik dan pengguna lainnya.
-- Tab **Pengaturan** memungkinkan pengelolaan profil, kata sandi, dan tampilan tema.
+- Tab **my rooms** menampilkan daftar kamar yang dimiliki, dengan opsi melihat, mengedit, dan menambahkan kamar baru.
+- Tab **appointments** menampilkan daftar janji survei dengan opsi membatalkan atau menyelesaikan.
+- Tab **reports** menampilkan laporan terhadap kamar yang dimiliki dan memungkinkan pemilik membantah laporan dengan bukti dan penjelasan.
+- Tab **messages** menampilkan percakapan antara pemilik dan pengguna lainnya.
+- Tab **settings** memungkinkan pengelolaan profil, kata sandi, dan tampilan tema.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="/assets/img/papikos/owner-dashboard.png" alt="Owner dashboard" />
@@ -61,11 +61,11 @@ Akun pemilik dan admin memiliki akses ke dashboard. Halaman default dashboard pe
 ---
 
 Terakhir, dashboard admin (ditampilkan dalam mode terang) memiliki halaman default yang menampilkan statistik pengguna, kamar, dan laporan. Sidebar dashboard mencakup beberapa tab, yaitu:
-- Tab **Pengguna** menampilkan semua pengguna, dengan opsi menambah, mengedit, dan/atau menghapus pengguna.
-- Tab **Kamar** menampilkan semua daftar kamar, dengan opsi menambah, mengedit, dan/atau menghapus kamar.
-- Tab **Laporan** menampilkan semua laporan yang disengketakan, di mana admin dapat meninjau dan mengubah status laporan berdasarkan bukti.
-- Tab **Pesan** menampilkan pesan yang dikirim kepada/dari admin.
-- Tab **Pengaturan** memungkinkan pengelolaan profil, kata sandi, dan tampilan tema.
+- Tab **manage users** menampilkan semua pengguna, dengan opsi menambah, mengedit, dan/atau menghapus pengguna.
+- Tab **manage rooms** menampilkan semua daftar kamar, dengan opsi menambah, mengedit, dan/atau menghapus kamar.
+- Tab **manage reports** menampilkan semua laporan yang disengketakan, di mana admin dapat meninjau dan mengubah status laporan berdasarkan bukti.
+- Tab **messages** menampilkan pesan yang dikirim kepada/dari admin.
+- Tab **settings** memungkinkan pengelolaan profil, kata sandi, dan tampilan tema.
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
   <img src="/assets/img/papikos/admin-dashboard.png" alt="Admin dashboard" />
