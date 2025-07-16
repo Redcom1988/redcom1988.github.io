@@ -3,7 +3,7 @@ title: "JadwalIn College Project"
 date: 2025-06-24
 description: "JadwalIn, a class scheduling and room booking system designed for Informatics students, lecturers, and admins at Universitas Udayana."
 categories: [web-development]
-tags: [assignment, github, college]
+tags: [project, github, college]
 lang: en
 canonical_url: https://redcom1988.github.io/posts/jadwalin-project-en/
 ---
