@@ -10,7 +10,7 @@ canonical_url: https://redcom1988.github.io/posts/marriage-invitation-website-en
 
 ## 🚀 Introduction
 
-Marriage Invitation Website is a digital wedding invitation built using HTML, CSS, and a bit of JavaScript, with Firebase Realtime Database for storing RSVP data. Firebase is used to store guest registration details such as name, timestamp, message, and attendance confirmation.
+**Marriage Invitation Website** is a digital wedding invitation built using HTML, CSS, and a bit of JavaScript, with Firebase Realtime Database for storing RSVP data. Firebase is used to store guest registration details such as name, timestamp, message, and attendance confirmation.
 
 This project was a small group assignment for the Web Development course. I was fully responsible for both front-end and back-end implementation, while my teammates handled the UI layout only.
 

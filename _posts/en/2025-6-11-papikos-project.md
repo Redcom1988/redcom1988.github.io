@@ -14,7 +14,7 @@ canonical_url: https://redcom1988.github.io/posts/papikos-project-en/
 
 ## 🚀 Introduction
 
-Papikos is a mamikos inspired room listing browser website that includes a report system to prevent fraudulent activities/behavior from room owners, and a built-in chat system (not using websocket but just repeated fetch every few seconds) for easy communication between owners and renters. The website is built using Laravel + React for front-end and back-end with SQLite as database. 
+**Papikos** is a mamikos inspired room listing browser website that includes a report system to prevent fraudulent activities/behavior from room owners, and a built-in chat system (not using websocket but just repeated fetch every few seconds) for easy communication between owners and renters. The website is built using Laravel + React for front-end and back-end with SQLite as database. 
 
 Renters can see, filter, search, bookmark, report, (with image proof) listings, book surveys for selected listings, and also chat with the owner of a selected listing. Owners can do the same but also refute a report in case it was a fake report and cancel/finish booked survey appointments, owners also have a dashboard that shows statistics of their room listings, allows them to create more room listings, and edit/update their listings to their desired result. Lastly admins also have a dashboard that shows all user and room data, and reports that they can review individually to change report status and take action from there.
 

@@ -14,7 +14,7 @@ canonical_url: https://redcom1988.github.io/posts/ecoscan-project-id/
 
 ## 🚀 Pengenalan
 
-Ecoscan adalah aplikasi pengumpulan sampah terinspirasi dari Pfandautomat, di mana pengguna mendapatkan poin dari mendaur ulang botol dan kaleng. Poin tersebut bisa ditukar dengan voucher. Aplikasi ini dibuat menggunakan Flutter (frontend), Express.js (backend), dan MySQL (database), terdiri dari layar user, admin, dan simulasi mesin.
+**Ecoscan** adalah aplikasi pengumpulan sampah terinspirasi dari Pfandautomat, di mana pengguna mendapatkan poin dari mendaur ulang botol dan kaleng. Poin tersebut bisa ditukar dengan voucher. Aplikasi ini dibuat menggunakan Flutter (frontend), Express.js (backend), dan MySQL (database), terdiri dari layar user, admin, dan simulasi mesin.
 Ini adalah proyek kuliah untuk mata kuliah pengembangan perangkat lunak yang dilakukan berkelompok. Saya bertanggung jawab pada backend, namun karena progress frontend lambat, saya juga membantu di beberapa bagian.
 
 ---

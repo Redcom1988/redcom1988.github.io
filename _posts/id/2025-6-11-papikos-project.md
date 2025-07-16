@@ -14,7 +14,7 @@ canonical_url: https://redcom1988.github.io/posts/papikos-project-id/
 
 ## 🚀 Pengenalan
 
-Papikos adalah situs web pencarian kos yang terinspirasi dari Mamikos. Situs ini memiliki sistem pelaporan untuk mencegah aktivitas atau perilaku penipuan dari pemilik kos, serta sistem percakapan bawaan (tanpa websocket, hanya fetch berulang setiap beberapa detik) untuk mempermudah komunikasi antara pemilik dan penyewa. Website dibangun menggunakan Laravel + React untuk frontend dan backend, serta SQLite sebagai basis data.
+**Papikos** adalah situs web pencarian kos yang terinspirasi dari Mamikos. Situs ini memiliki sistem pelaporan untuk mencegah aktivitas atau perilaku penipuan dari pemilik kos, serta sistem percakapan bawaan (tanpa websocket, hanya fetch berulang setiap beberapa detik) untuk mempermudah komunikasi antara pemilik dan penyewa. Website dibangun menggunakan Laravel + React untuk frontend dan backend, serta SQLite sebagai basis data.
 
 Penyewa dapat melihat, memfilter, mencari, menyimpan (bookmark), melaporkan (dengan bukti gambar) daftar kos, memesan jadwal survei, serta mengobrol dengan pemilik kos. Pemilik kos dapat melakukan hal yang sama dan juga menolak laporan palsu, serta membatalkan atau menyelesaikan janji survei. Pemilik juga memiliki dashboard yang menampilkan statistik kamar kos mereka, memungkinkan mereka menambahkan kos baru, serta mengedit/memperbarui kos yang ada. Terakhir, admin memiliki dashboard yang menampilkan semua data pengguna dan kamar, serta laporan yang dapat ditinjau secara individual untuk menentukan status dan tindakan selanjutnya.
 

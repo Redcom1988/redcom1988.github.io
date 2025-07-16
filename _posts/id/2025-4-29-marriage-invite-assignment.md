@@ -10,7 +10,7 @@ canonical_url: https://redcom1988.github.io/posts/marriage-invitation-website-id
 
 ## 🚀 Pengenalan
 
-Website Undangan Pernikahan adalah undangan digital berbasis web yang dibangun menggunakan HTML, CSS, dan sedikit JavaScript. Firebase Realtime Database digunakan untuk menyimpan data RSVP tamu. Firebase menyimpan data seperti nama tamu, waktu pendaftaran, pesan/ucapan, dan status kehadiran.
+**Website Undangan Pernikahan** adalah undangan digital berbasis web yang dibangun menggunakan HTML, CSS, dan sedikit JavaScript. Firebase Realtime Database digunakan untuk menyimpan data RSVP tamu. Firebase menyimpan data seperti nama tamu, waktu pendaftaran, pesan/ucapan, dan status kehadiran.
 
 Proyek ini adalah tugas kelompok kecil dalam mata kuliah *Web Development*. Saya bertanggung jawab penuh atas pengembangan front-end dan back-end, sedangkan rekan tim hanya mengerjakan desain UI.
 

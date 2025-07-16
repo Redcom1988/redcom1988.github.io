@@ -14,7 +14,7 @@ canonical_url: https://redcom1988.github.io/posts/ecoscan-project-en/
 
 ## 🚀 Introduction
 
-Ecoscan is a Pfandautomat inspired waste collection mobile application that rewards users for recycling reusable waste like cans and plastic bottles (through a recycling machine) with points that can be exchanged into vouchers. The application is built using Flutter for front-end, Express.js for back-end, and MySQL as database, it includes user, admin, and machine (simulation of what the machine might look like and how it behaves) screens.
+**Ecoscan** is a Pfandautomat inspired waste collection mobile application that rewards users for recycling reusable waste like cans and plastic bottles (through a recycling machine) with points that can be exchanged into vouchers. The application is built using Flutter for front-end, Express.js for back-end, and MySQL as database, it includes user, admin, and machine (simulation of what the machine might look like and how it behaves) screens.
 
 This was a college project for software development subject done with a group and was the first time me and my groupmates have ever tried mobile app development. I was in charge of back-end but due to slow progress on front-end, I had to take over on some areas (reason why some screens have differing language).
 

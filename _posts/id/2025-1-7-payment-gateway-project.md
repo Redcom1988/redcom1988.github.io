@@ -10,7 +10,7 @@ canonical_url: https://redcom1988.github.io/posts/payment-gateway-cashier-id/
 
 ## 🚀 Pengenalan
 
-Payment Gateway Cashier adalah aplikasi kasir desktop yang dibangun menggunakan Python dan Tkinter untuk antarmuka, serta SQLite sebagai basis data. Aplikasi ini terintegrasi dengan DokuAPI untuk mendukung sistem pembayaran digital.
+**Payment Gateway Cashier** adalah aplikasi kasir desktop yang dibangun menggunakan Python dan Tkinter untuk antarmuka, serta SQLite sebagai basis data. Aplikasi ini terintegrasi dengan DokuAPI untuk mendukung sistem pembayaran digital.
 
 Proyek ini merupakan tugas akhir mata kuliah *Analisis dan Perancangan Algoritma*. Dikerjakan secara berkelompok, saya bertanggung jawab penuh atas pengembangan sisi *back-end*, termasuk struktur database dan integrasi API.
 
